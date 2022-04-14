@@ -1,0 +1,31 @@
+id: PF1C85D83
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6295
+  instance_id: http://purl.bdrc.io/resource/IE1KG6295
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གྲུབ་མཐའི་བསྟན་བཅོས་མི་ཤིག་རྡོ་རྗེའི་གོ་ཆ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - si zong yuan liu jian jie
+  author: http://purl.bdrc.io/resource/P7517
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    c30567c235c944df8661a73881a138c3:
+      title: པོད ༡་གྲུབ་མཐའི་བསྟན་བཅོས་མི་ཤིག་རྡོ་རྗེའི་གོ་ཆ།
+      volume_number: 1
+      base_file: UT1KG6295_I1KG6315_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA59F9C643E260700
+      image_group: I1KG6315
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6295
+  - http://purl.bdrc.io/resource/W1KG6295
+  ocr_software: Namsel
+created_at: '2021-12-22T10:59:34.913815'
+last_modified_at: '2021-12-22T10:59:34.913822'
